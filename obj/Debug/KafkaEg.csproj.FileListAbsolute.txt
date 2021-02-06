@@ -1,0 +1,12 @@
+G:\CTS Data\KafkaEg\bin\Debug\KafkaEg.exe.config
+G:\CTS Data\KafkaEg\bin\Debug\KafkaEg.exe
+G:\CTS Data\KafkaEg\bin\Debug\KafkaEg.pdb
+G:\CTS Data\KafkaEg\bin\Debug\kafka-net.dll
+G:\CTS Data\KafkaEg\obj\Debug\KafkaEg.csprojAssemblyReference.cache
+G:\CTS Data\KafkaEg\obj\Debug\KafkaEg.Form1.resources
+G:\CTS Data\KafkaEg\obj\Debug\KafkaEg.Properties.Resources.resources
+G:\CTS Data\KafkaEg\obj\Debug\KafkaEg.csproj.GenerateResource.cache
+G:\CTS Data\KafkaEg\obj\Debug\KafkaEg.csproj.CoreCompileInputs.cache
+G:\CTS Data\KafkaEg\obj\Debug\KafkaEg.csproj.CopyComplete
+G:\CTS Data\KafkaEg\obj\Debug\KafkaEg.exe
+G:\CTS Data\KafkaEg\obj\Debug\KafkaEg.pdb
